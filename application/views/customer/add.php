@@ -57,7 +57,7 @@
                         <input type="text" name="alamat" id="alamat" class="form-control">
                     </div>
                     <div class="mb-3">
-                        <label for="cif" class="form-label">No CIFs</label>
+                        <label for="cif" class="form-label">No CIF</label>
                         <input type="text" name="cif" id="cif" class="form-control" value="<?= $nomorCIF ?>" readonly>
                     </div>
                     <div class="mb-3">
